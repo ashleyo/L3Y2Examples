@@ -1,0 +1,8 @@
+/* * { border: 1px solid green}  */
+
+body {background-color: aquamarine;}
+
+li, p {
+    color:blueviolet; 
+    font-size:x-small
+}
